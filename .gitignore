@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 --backend--
+=======
+>>>>>>> 33dd457e3d3e4e04dd600b120b4b579e6adb3cf6
 node_modules/
 .env
 *.log
@@ -31,9 +34,12 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+<<<<<<< HEAD
 --frontend--
 node_modules/
 dist/
 .env
 *.log
 .DS_Store
+=======
+>>>>>>> 33dd457e3d3e4e04dd600b120b4b579e6adb3cf6
